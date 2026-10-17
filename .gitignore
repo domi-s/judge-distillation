@@ -1,1 +1,5 @@
+# Ignore datasets
 data.json
+
+# Ignore model files
+*.pkl
