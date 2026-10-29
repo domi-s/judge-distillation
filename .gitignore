@@ -1,8 +1,8 @@
 # Datasets
-data.json
+data/data.json
 
 # Model files
-*.pkl
+**/*.pkl
 
 # Cache files
 **/__pycache__/
