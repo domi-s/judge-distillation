@@ -1,5 +1,9 @@
-# Ignore datasets
+# Datasets
 data.json
 
-# Ignore model files
+# Model files
 *.pkl
+
+# Cache files
+**/__pycache__/
+*.pyc
