@@ -1,7 +1,8 @@
 # Judge distillation
 
-This repository explores methods for distilling a 
-programming judge into a local score predictor.
+This repository explores methods for distilling a programming judge into a local score predictor.
+
+[Read the blog post here.](https://domis.at/blog/judge-distillation)
 
 ## Introduction
 
