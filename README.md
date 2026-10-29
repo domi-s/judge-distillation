@@ -106,3 +106,9 @@ Since the dataset contains mostly 0 and 100 scores, classification matches the t
   90       % │ 7458         │ 6.7954 points         
   100      % │ 8287         │ 6.7375 points
 ```
+
+## Future directions and improvements
+
+* Test on more problems, with more diverse datasets and more complex tasks and scoring.
+* Explore more advanced models.
+  * It must be noted that the purpose is to outweigh the cost of running the judge, so the model must be lightweight and fast to run.
